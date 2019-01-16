@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5386ce5f-164a-4986-b425-3378eea719fa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blogs/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Blogs/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/settings.py" afterDir="false" />
     </list>
     <list id="84528932-2220-4dcf-afb0-991026995aa6" name="Keys" comment="Keys" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,9 +15,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FirstProject/settings.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Blogs/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -23,7 +41,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/FirstProject/settings.py" />
+        <option value="$PROJECT_DIR$/Blogs/models.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="463" />
     <option name="y" value="134" />
     <option name="width" value="751" />
@@ -40,6 +66,16 @@
           <expand>
             <path>
               <item name="FirstProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstProject" type="462c0819:PsiDirectoryNode" />
+              <item name="Blogs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstProject" type="462c0819:PsiDirectoryNode" />
               <item name="FirstProject" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -117,24 +153,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547624372366</updated>
-      <workItem from="1547624378360" duration="1679000" />
+      <workItem from="1547624378360" duration="2953000" />
     </task>
+    <task id="LOCAL-00001" summary="Removed Keys">
+      <created>1547626960851</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1547626960851</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1679000" />
+    <option name="totallyTimeSpent" value="2953000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" weight="0.3289689" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -153,12 +198,30 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Removed Keys" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed Keys" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/FirstProject/urls.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/FirstProject/settings.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blogs/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
