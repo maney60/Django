@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>First blog</title>
+</head>
+<body>
+<div class="header">
+  <h2>Django Blog</h2>
+</div>
+
+<div class="row">
+  <div class="leftcolumn">
+    {% if posts %}
+       <div class="card">
+      <h2>First Blog</h2>
+
+      <h5>Title description, Dec 7, 2017</h5>
+      <div class="fakeimg" style="height:200px;">Apple</div>
+      <p>Some text..</p>
+      </div>
+    {% else %}
+    {% endif %}
+  </div>
+
+
+
+  <div class="rightcolumn">
+    <div class="card"></div>
+</div>
+
+
+
+</body>
+</html>
